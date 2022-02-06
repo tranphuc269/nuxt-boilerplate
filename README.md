@@ -96,19 +96,3 @@ $ yarn generate
 Comming Soon!
 
 
-## Donation
-
-Kindly donate to the following bank account (Cambodia) if you want to support our works.
-
-<img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_560/https://adscom.biz/wp-content/uploads/2017/02/ABA-logo-no-padding.png" width="120" alt="TFD Logo" />
-
-#### KHEANG KIM ANG
-
-#### 001 821 043
-
-You can also donate with **Visa Direct**.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Visa.svg/1200px-Visa.svg.png" width="120" alt="TFD Logo" />
-
-#### 4026 4503 2163 1102
-
